@@ -1,0 +1,14 @@
+C:\Users\ftd-09\Desktop\Assignments\QuizRestController\QuizRestController\bin\Debug\netcoreapp2.1\QuizRestController.deps.json
+C:\Users\ftd-09\Desktop\Assignments\QuizRestController\QuizRestController\bin\Debug\netcoreapp2.1\QuizRestController.runtimeconfig.json
+C:\Users\ftd-09\Desktop\Assignments\QuizRestController\QuizRestController\bin\Debug\netcoreapp2.1\QuizRestController.runtimeconfig.dev.json
+C:\Users\ftd-09\Desktop\Assignments\QuizRestController\QuizRestController\bin\Debug\netcoreapp2.1\QuizRestController.dll
+C:\Users\ftd-09\Desktop\Assignments\QuizRestController\QuizRestController\bin\Debug\netcoreapp2.1\QuizRestController.pdb
+C:\Users\ftd-09\Desktop\Assignments\QuizRestController\QuizRestController\obj\Debug\netcoreapp2.1\QuizRestController.csprojAssemblyReference.cache
+C:\Users\ftd-09\Desktop\Assignments\QuizRestController\QuizRestController\obj\Debug\netcoreapp2.1\QuizRestController.csproj.CoreCompileInputs.cache
+C:\Users\ftd-09\Desktop\Assignments\QuizRestController\QuizRestController\obj\Debug\netcoreapp2.1\QuizRestController.RazorAssemblyInfo.cache
+C:\Users\ftd-09\Desktop\Assignments\QuizRestController\QuizRestController\obj\Debug\netcoreapp2.1\QuizRestController.RazorAssemblyInfo.cs
+C:\Users\ftd-09\Desktop\Assignments\QuizRestController\QuizRestController\obj\Debug\netcoreapp2.1\QuizRestController.AssemblyInfoInputs.cache
+C:\Users\ftd-09\Desktop\Assignments\QuizRestController\QuizRestController\obj\Debug\netcoreapp2.1\QuizRestController.AssemblyInfo.cs
+C:\Users\ftd-09\Desktop\Assignments\QuizRestController\QuizRestController\obj\Debug\netcoreapp2.1\QuizRestController.RazorTargetAssemblyInfo.cache
+C:\Users\ftd-09\Desktop\Assignments\QuizRestController\QuizRestController\obj\Debug\netcoreapp2.1\QuizRestController.dll
+C:\Users\ftd-09\Desktop\Assignments\QuizRestController\QuizRestController\obj\Debug\netcoreapp2.1\QuizRestController.pdb
